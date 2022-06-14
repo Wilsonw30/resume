@@ -94,6 +94,8 @@
 body {
 	background: url(https://www.toptal.com/designers/subtlepatterns/patterns/dark_wall.png) repeat;
 	margin: 0;
+	background-color: rgb(34, 34, 34);
+
 }
 
 h1,h2,h3, h4 {
